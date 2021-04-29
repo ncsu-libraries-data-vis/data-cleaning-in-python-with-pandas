@@ -1,6 +1,6 @@
 # Data cleaning in Python with pandas
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NCSU-Libraries/data-viz-workshops/blob/master/Python_Open_Labs/Data_wrangling_with_Pandas/Python_Open_Labs_Week2.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ncsu-libraries-data-vis/data-cleaning-in-python-with-pandas/blob/main/Data_Cleaning_in_Python_with_pandas.ipynb)
 
 These workshop materials provide an introduction to common methods for cleaning and preparing datasets for analysis with the Python pandas data analysis library.
 
